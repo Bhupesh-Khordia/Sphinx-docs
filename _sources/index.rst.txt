@@ -9,7 +9,7 @@
 
 
 
-Sphinx Project documentation
+Sphinx Project documentation by Bhupesh
 ============================
 
 Add your content using ``reStructuredText`` syntax. See the
