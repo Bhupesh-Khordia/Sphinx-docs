@@ -1,0 +1,6 @@
+﻿module2.file3.file3\_func5
+==========================
+
+.. currentmodule:: module2.file3
+
+.. autofunction:: file3_func5

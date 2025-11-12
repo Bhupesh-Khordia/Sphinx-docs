@@ -1,0 +1,49 @@
+module2 package
+===============
+
+Submodules
+----------
+
+module2.file3 module
+--------------------
+
+.. automodule:: module2.file3
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+module2.file4 module
+--------------------
+
+.. automodule:: module2.file4
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: module2
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+
+MyMath Module
+=============
+
+.. currentmodule:: module2.file3
+
+Module Index
+------------
+
+This section provides a summary of the key functions in the file3 module:
+
+.. autosummary::
+   :toctree: generated/
+
+   file3_func1
+   file3_func2
+   file3_func3
+   file3_func4
+   file3_func5
